@@ -1,0 +1,22 @@
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\irsam\\AppData\\Roaming\\npm\\npm run inngest:dev\0"` in cwd `Some("D:\\Trigger Flow\\trigger-flow\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\irsam\\AppData\\Roaming\\npm\\npm run dev\0"` in cwd `Some("D:\\Trigger Flow\\trigger-flow\0")` failed: %1 is not a valid Win32 application. (os error 193)
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [mprocs::error] Error: channel closed
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\irsam\\AppData\\Roaming\\npm\\npm run inngest:dev\0"` in cwd `Some("D:\\Trigger Flow\\trigger-flow\0")` failed: %1 is not a valid Win32 application. (os error 193)
+ERROR [portable_pty::win::psuedocon] CreateProcessW `"C:\\Users\\irsam\\AppData\\Roaming\\npm\\npm run dev\0"` in cwd `Some("D:\\Trigger Flow\\trigger-flow\0")` failed: %1 is not a valid Win32 application. (os error 193)
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+ERROR [mprocs::error] Error: channel closed
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
+WARN [mprocs::app] Ignore input event: FocusLost
+WARN [mprocs::app] Ignore input event: FocusGained
